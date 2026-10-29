@@ -25,5 +25,5 @@ Live Bot: [@SamosirGuideBot on Telegram](https://t.me/SamosirGuideBot) | WA: soo
 ```bash
 git clone https://github.com/kamu/samosir-guide-bot
 pip install -r requirements.txt
-export BOT_TOKEN="your_token_from_BotFather"
+export BOT_TOKEN=9263077506:AAGwLExyeDoV5-mZ8JjAG9XFtjWDMQRJ5U8
 python samosir_guide_v1.py
